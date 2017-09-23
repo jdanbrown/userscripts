@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         BigQuery: Always use Standard SQL
 // @namespace    https://bigquery.cloud.google.com/
-// @version      0.1
+// @version      0.2
 // @description  Ensure the Standard SQL dialect is always selected unless there's nonempty SQL text
 // @author       jdanbrown
 // @match        https://bigquery.cloud.google.com/*
 // @grant        none
+// @updateURL    https://openuserjs.org/meta/jdanbrown/BigQuery_Always_use_Standard_SQL.meta.js
 // ==/UserScript==
 
 // Docs: http://tampermonkey.net/documentation.php

@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         BigQuery: Always show validator
 // @namespace    https://bigquery.cloud.google.com/
-// @version      0.1
+// @version      0.2
 // @description  Ensure the query syntax validator bar is always shown
 // @author       jdanbrown
 // @match        https://bigquery.cloud.google.com/*
 // @grant        none
+// @updateURL    https://openuserjs.org/meta/jdanbrown/BigQuery_Always_show_validator.meta.js
 // ==/UserScript==
 
 // Docs: http://tampermonkey.net/documentation.php
