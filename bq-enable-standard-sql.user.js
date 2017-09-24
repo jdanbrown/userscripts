@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BigQuery: Always use Standard SQL
-// @namespace    https://bigquery.cloud.google.com/
-// @version      0.2
+// @namespace    https://github.com/jdanbrown/userscripts
+// @version      0.3
 // @description  Ensure the Standard SQL dialect is always selected unless there's nonempty SQL text
 // @author       jdanbrown
 // @match        https://bigquery.cloud.google.com/*

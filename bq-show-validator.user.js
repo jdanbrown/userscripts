@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BigQuery: Always show validator
-// @namespace    https://bigquery.cloud.google.com/
-// @version      0.2
+// @namespace    https://github.com/jdanbrown/userscripts
+// @version      0.3
 // @description  Ensure the query syntax validator bar is always shown
 // @author       jdanbrown
 // @match        https://bigquery.cloud.google.com/*
