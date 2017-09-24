@@ -1,1 +1,1 @@
-Automatically published to https://openuserjs.org/users/jdanbrown
+Automatically published to https://openuserjs.org/users/jdanbrown/scripts
